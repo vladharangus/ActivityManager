@@ -1,0 +1,3 @@
+repository = inmemory
+person = "People.txt"
+activity = "Activity.txt"

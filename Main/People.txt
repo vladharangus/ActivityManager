@@ -1,0 +1,99 @@
+0;Madalina Tanase;0732754624;Memorandumului
+1;Dargos Petcu;0732754624;Eroilor
+2;Iulian Tanase;0747191247;Magnoliei
+3;Denisa Tanase;0799999999;Universitatii
+4;Vlad Atanasoaiei;0712345678;Magnoliei
+5;Iulian Jercan;0732754624;Universitatii
+6;Alin Atanasoaiei;0712345678;A.I. Cuza
+7;Madalina Ionescu;0711111111;Eroilor
+8;Andreea Tanase;0732754624;Calea Baciului
+9;Iulian Rusescu;0732754624;Calea Baciului
+10;Bogdan Rusescu;0799999999;Memorandumului
+11;Maria Rusescu;0747191247;Memorandumului
+12;Iulian Jercan;0732754624;Dragos VOda
+13;Cristian Harangus;0711111111;21 Decembrie
+14;Dargos Pop;0711111111;Universitatii
+15;Cristian Pop;0711111111;Eroilor
+16;Tudor Pop;0747191247;Calea Baciului
+17;Madalina Atanasoaiei;0747191247;Memorandumului
+18;Andreea Tanase;0711111111;Dragos VOda
+19;Denisa Jercan;0747191247;A.I. Cuza
+20;Bogdan Petcu;0712345678;Regele Ferdinand
+21;Madalina Rusescu;0732754624;Universitatii
+22;Iulian Ionescu;0712345678;Regele Ferdinand
+23;Alin Tanase;0746185625;Dragos VOda
+24;Vlad Harangus;0799999999;Regele Ferdinand
+25;Bogdan Atanasoaiei;0732754624;21 Decembrie
+26;Iulian Medan;0799999999;Plopilor
+27;Madalina Atanasoaiei;0747191247;Universitatii
+28;Ioana Medan;0799999999;21 Decembrie
+29;Andreea Harangus;0732754624;21 Decembrie
+30;Cristian Jercan;0712345678;Eroilor
+31;Iulian Medan;0711111111;Universitatii
+32;Alin Petcu;0732754624;Regele Ferdinand
+33;Dargos Petcu;0746185625;21 Decembrie
+34;Alex Medan;0712345678;Memorandumului
+35;Alin Jercan;0711111111;Universitatii
+36;Maria Medan;0732754624;Calea Baciului
+37;Maria Pop;0732754624;Eroilor
+38;Vlad Tanase;0711111111;Plopilor
+39;Denisa Pop;0746185625;Calea Baciului
+40;Tudor Atanasoaiei;0712345678;Eroilor
+41;Dargos Medan;0711111111;Memorandumului
+42;Denisa Ionescu;0711111111;Universitatii
+43;Ioana Tanase;0712345678;A.I. Cuza
+44;Tudor Pop;0747191247;Eroilor
+45;Vlad Harangus;0747191247;Eroilor
+46;Vlad Ionescu;0799999999;Universitatii
+47;Alex Pop;0799999999;Memorandumului
+48;Madalina Atanasoaiei;0732754624;Dragos VOda
+49;Denisa Tanase;0711111111;Plopilor
+50;Andreea Atanasoaiei;0732754624;Magnoliei
+51;Alex Pop;0732754624;A.I. Cuza
+52;Iulian Ionescu;0747191247;21 Decembrie
+53;Andreea Rusescu;0732754624;Eroilor
+54;Alex Petcu;0732754624;Dragos VOda
+55;Maria Atanasoaiei;0746185625;Memorandumului
+56;Ioana Jercan;0732754624;Regele Ferdinand
+57;Iulian Pop;0732754624;21 Decembrie
+58;Tudor Petcu;0732754624;A.I. Cuza
+59;Ioana Jercan;0799999999;A.I. Cuza
+60;Bogdan Harangus;0712345678;Regele Ferdinand
+61;Bogdan Ionescu;0747191247;Memorandumului
+62;Bogdan Medan;0799999999;Dragos VOda
+63;Iulian Rusescu;0746185625;Regele Ferdinand
+64;Denisa Medan;0711111111;Magnoliei
+65;Ioana Jercan;0732754624;Plopilor
+66;Dargos Petcu;0799999999;Eroilor
+67;Ioana Jercan;0712345678;Regele Ferdinand
+68;Iulian Medan;0747191247;Calea Baciului
+69;Alex Jercan;0711111111;Plopilor
+70;Dargos Harangus;0747191247;A.I. Cuza
+71;Andreea Rusescu;0712345678;Memorandumului
+72;Alin Pop;0732754624;Plopilor
+73;Ioana Harangus;0732754624;Calea Baciului
+74;Andreea Ionescu;0746185625;Dragos VOda
+75;Denisa Jercan;0747191247;Dragos VOda
+77;Madalina Tanase;0799999999;21 Decembrie
+78;Andreea Medan;0712345678;21 Decembrie
+79;Cristian Rusescu;0712345678;Eroilor
+80;Andreea Tanase;0746185625;Magnoliei
+81;Tudor Ionescu;0712345678;Eroilor
+82;Madalina Tanase;0747191247;Regele Ferdinand
+83;Bogdan Atanasoaiei;0746185625;Calea Baciului
+85;Alex Tanase;0732754624;Regele Ferdinand
+86;Tudor Pop;0712345678;Universitatii
+87;Alin Rusescu;0799999999;21 Decembrie
+88;Dargos Medan;0712345678;Universitatii
+89;Cristian Harangus;0732754624;A.I. Cuza
+90;Iulian Rusescu;0747191247;Memorandumului
+91;Denisa Ionescu;0746185625;Eroilor
+92;Madalina Harangus;0712345678;A.I. Cuza
+93;Denisa Medan;0732754624;Plopilor
+94;Denisa Harangus;0712345678;Dragos VOda
+95;Alex Tanase;0799999999;Plopilor
+96;Maria Pop;0747191247;Plopilor
+97;Cristian Ionescu;0746185625;Magnoliei
+98;Tudor Jercan;0732754624;Calea Baciului
+99;Ioana Petcu;0712345678;A.I. Cuza
+84;Maria Rusescu;0799999999;Magnoliei
